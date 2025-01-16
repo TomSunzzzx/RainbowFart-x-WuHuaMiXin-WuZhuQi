@@ -1,0 +1,130 @@
+{
+    "contributes": [
+        {
+            "keywords": ["//", "#", "<!--", "-->", "'''", "\"\"\"", "/*", "*/"],
+            "voices":["CannotChange.mp3",
+                      "GreatSolution.mp3",
+                      "BestUpdate.mp3",
+                      "FineTuneABit.mp3",
+                      "GiveMeTheElectronicVersion.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["fuck"],
+            "voices":["BadOmenLottery.mp3",
+                      "CannotRepairComputers.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["import", "include"],
+            "voices":["LaunchIDEButCrash.mp3",
+                      "ThisLotteryDrawIsAGreatOmenForBattle.mp3",
+                      "Loading.mp3",
+                      "PeripheralIsConnected.mp3",
+                      "StartSelfCheck.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["pop", "del", "remove", "finally", "close"],
+            "voices":["DataRelease.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["save", "dump"],
+            "voices":["Save.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["if", "elif", "else", "for", "while", "do", "goto"],
+            "voices":["LogicAndFlowchart.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["switch", "case"],
+            "voices":["Selected.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": [">_<"],
+            "voices":["Ah.mp3",
+                      "Oh.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["try", "catch", "expect", "traceback"],
+            "voices":["Problems.mp3",
+                      "NotProneToBalding.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["exec", "if __name__ == '__main__'"],
+            "voices":["Execute.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["$time_morning"],
+            "voices":["SearchForAlienSignals.mp3",
+                      "Introduction.mp3",
+                      "LetMeSleep.mp3",
+                      "WhichRoom.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["$time_before_noon"],
+            "voices":["Thanks.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["$time_noon"],
+            "voices":["TimeGoFast.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["$time_evening"],
+            "voices":["GoodEvening.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["$time_midnight"],
+            "voices":["OvertimePay.mp3"
+            ],
+			"texts":[
+			]
+        },
+        {
+            "keywords": ["$time_each_hour"],
+            "voices":["Lottery.mp3"
+            ],
+			"texts":[
+			]
+        }
+    ]
+}
